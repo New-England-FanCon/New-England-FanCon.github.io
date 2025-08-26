@@ -8,6 +8,8 @@ main:
     url: 
   - title: "Schedule"
     url: /schedule
+  - title: "Apply to Vend"
+    url: /vend  
     
   # - title: "Sample Posts"
   #   url: /year-archive/
