@@ -2,12 +2,12 @@
 title: "New England FanCon"
 layout: splash
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#f3921c"
+  overlay_filter: "0"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Apply to be a Vendor today!"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://form.jotform.com/252414776972164"
   caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
 excerpt: "August 15-16, 2026"
 intro: 
@@ -17,12 +17,12 @@ feature_row:
     image_caption: "Image courtesy of [@aciddcupcake](https://www.instagram.com/aciddcupcake/)"
     alt: "Cosplay"
     title: "Cosplay"
-    excerpt: "<p>🎮 Ready to put your cosplay skills to the test?</p><p>Sign up for our <strong>Cosplay Contest</strong> for a chance to win a cash prize!</p>>Casual cosplayer? Check out our [themed photoshoots](/url schedule)!"
+    excerpt: "<p>🪡 Put your cosplay skills to the test!</p><p>Sign up for our <strong>Cosplay Contest</strong> for the chance to win a cash prize!</p>>Casual cosplayer? Check out our [themed photoshoots](/url schedule)!"
   - image_path: /assets/images/placeholderceleb.png
     image_caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
     alt: "Celebrity Guests"
     title: "Celebrity Guests"
-    excerpt: "<p>🎤 Come face-to-face with greatness!</p><p>Celebrity guest and panel announcements coming soon!</p>><strong>Pro Tip:</strong> Sign up for our email list to be the first in the know!"
+    excerpt: "<p>🎤 Meet face-to-face with greatness!</p><p>Celebrity guest and panel announcements coming soon!</p>><strong>Pro Tip:</strong> Sign up for our [email list](/url signup) to be the first in the know!"
     url: "#test-link"
     btn_label: "Sign Up!"
     btn_class: "btn--primary"
@@ -48,6 +48,6 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+<!-- {% include feature_row id="feature_row3" type="right" %} -->
 
-{% include feature_row id="feature_row4" type="center" %}
+<!-- {% include feature_row id="feature_row4" type="center" %} -->

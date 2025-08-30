@@ -160,7 +160,9 @@ th {
 
 <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
-<p>Single Day Passes currently cost $17, and the Two-Day Pass costs $30 for our earlybird special. Pricing will increase closer to the event.</p> Children under 10 may attend at no cost when accompanied by an attentive parent/guardian.
+<p>Single Day Passes currently cost $17, and the Two-Day Pass costs $30 for our earlybird special. Pricing will increase closer to the event.</p> 
+
+<p>Children under 10 may attend at no cost when accompanied by an attentive parent/guardian.</p>
 
 <p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line AND receive an exclusive FanCon sticker pack while supplies last!</p>
 
@@ -176,7 +178,7 @@ th {
 
 <details>
 <summary><h3>How can I become a vendor for New England FanCon?</h3></summary>
-<p>Simply fill out our vendor interest formLINK JOTFORM?GOOGLE Form and our exhibitor management team will reach out with more details!</p>
+<p>Simply fill out our <a href = "https://form.jotform.com/252414776972164" target ="_blank">vendor interest form</a> and our exhibitor management team will reach out with more details!</p>
 
 </details>
 

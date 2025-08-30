@@ -2,14 +2,14 @@
 main:
   - title: "FAQ"
     url: /faq
-  - title: "Guests/Artists"
-    url: /guests
+  #- title: "Guests/Artists"
+  #  url: /guests
   - title: "Vendors"
     url: /vendors
-  - title: "Schedule"
-    url: /schedule
-  - btn_label: "Sign Up!"
-    btn_class: "btn--primary"
+  #- title: "Schedule"
+  #  url: /schedule
+  #- btn_label: "Sign Up!"
+  #  btn_class: "btn--primary"
   - title: Sign up!
     url: /signup
     

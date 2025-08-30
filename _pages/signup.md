@@ -14,7 +14,7 @@ permalink: /signup
 <div id="mc_embed_signup">
     <form action="https://gmail.us18.list-manage.com/subscribe/post?u=80b44fabf77e3d29691f2f73b&amp;id=fc91e7a2bd&amp;f_id=0021afe6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
         <div id="mc_embed_signup_scroll"><h2>Join the Fandom!</h2>
-            <p>Sign up to receive our emails! Unsubscribe any time. Stay in the know for all celebrity, panel, and event announcements!</p>
+            <p>Sign up to receive our emails! Stay in the know for all celebrity, panel, and event announcements!</p>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div>
         <div id="mce-responses" class="clear foot">
