@@ -134,7 +134,7 @@ th {
 <details>
 <summary><h3>Who should attend New England FanCon?</h3></summary>
 <p>New England FanCon is open to all! We strive to create a friendly environment for fans of all ages to enjoy the close of the con season with a last <em>hurrah!</em></p>
-<p>While this is not an event designed for children, we welcome little ones who are accompanied with an attentive parent or guardian! New England FanCon is intended to be family-friendly, and our vendors restrict NSFW content from being on direct display. Please note, while our con's aisles are accessible to wheelchairs, we recommend leaving bulky strollers in the car.</p>
+<p>While this is not an event designed for children, we welcome little ones who are accompanied with an attentive parent or guardian! Please note, while our con's aisles are accessible to wheelchairs, we recommend leaving bulky strollers in the car.</p>
 
 </details>
 
@@ -160,11 +160,17 @@ th {
 
 <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
-<p>Single Day Passes currently cost $17, and the Two-Day Pass costs $30 for our earlybird special. Pricing will increase closer to the event.</p>
+<p>Single Day Passes currently cost $17, and the Two-Day Pass costs $30 for our earlybird special. Pricing will increase closer to the event.</p> Children under 10 may attend at no cost when accompanied by an attentive parent/guardian.
 
 <p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line AND receive an exclusive FanCon sticker pack while supplies last!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
+
+</details>
+
+<details>
+<summary><h3>What is the refund policy for New England FanCon?</h3></summary>
+<p>Please send an email to our support team at ___ to request a refund. Refunds requested prior to July 1st, 2026 at 11:59 PM will be granted in full, minus the cost of credit card and processing fees. Refunds requested between July 2nd and July 24th, 2026 at 11:59 PM will be granted at 50% of the purchase price, minus the cost of credit card and processing fees. No refunds will be granted starting July 25th.</p>
 
 </details>
 

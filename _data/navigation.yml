@@ -5,11 +5,13 @@ main:
   - title: "Guests/Artists"
     url: /guests
   - title: "Vendors"
-    url: 
+    url: /vendors
   - title: "Schedule"
     url: /schedule
-  - title: "Apply to Vend"
-    url: /vend  
+  - btn_label: "Sign Up!"
+    btn_class: "btn--primary"
+  - title: Sign up!
+    url: /signup
     
   # - title: "Sample Posts"
   #   url: /year-archive/

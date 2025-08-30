@@ -8,28 +8,29 @@ header:
   actions:
     - label: "Apply to be a Vendor today!"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
 excerpt: "August 15-16, 2026"
 intro: 
   - excerpt: 'A celebration of all things fandom and pop culture, New England FanCon offers family-friendly fun for fans of all ages. From anime and comics to cartoons and video games, find something for everyone!'
 feature_row:
   - image_path: assets/images/placeholdercosplay.png
+    image_caption: "Image courtesy of [@aciddcupcake](https://www.instagram.com/aciddcupcake/)"
     alt: "Cosplay"
     title: "Cosplay"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "<p>🎮 Ready to put your cosplay skills to the test?</p><p>Sign up for our <strong>Cosplay Contest</strong> for a chance to win a cash prize!</p>>Casual cosplayer? Check out our [themed photoshoots](/url schedule)!"
   - image_path: /assets/images/placeholderceleb.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
     alt: "Celebrity Guests"
     title: "Celebrity Guests"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "<p>🎤 Come face-to-face with greatness!</p><p>Celebrity guest and panel announcements coming soon!</p>><strong>Pro Tip:</strong> Sign up for our email list to be the first in the know!"
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Sign Up!"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholderpanel.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
     alt: "Celebrity Guests"
     title: "Panels"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Don't delay! <strong>Register today!</strong>"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Follow us on social"
