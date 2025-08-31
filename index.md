@@ -17,7 +17,7 @@ feature_row:
     image_caption: "Image courtesy of [@aciddcupcake](https://www.instagram.com/aciddcupcake/)"
     alt: "Cosplay"
     title: "Cosplay"
-    excerpt: "<p>🪡 Put your cosplay skills to the test!</p><p>Sign up for our <strong>Cosplay Contest</strong> for the chance to win a cash prize!</p>>Casual cosplayer? Check out our [themed photoshoots](/url schedule)!"
+    excerpt: "<p>🪡 Put your cosplay skills to the test!</p><p>Sign up for our <a href='https://form.jotform.com/252414776972164' target ='_blank'><strong>Cosplay Contest</strong></a> for the chance to win a cash prize!</p>>Casual cosplayer? Check out our [themed photoshoots](/url schedule)!"
   - image_path: /assets/images/placeholderceleb.png
     image_caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
     alt: "Celebrity Guests"
