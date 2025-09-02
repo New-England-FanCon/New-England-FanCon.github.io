@@ -24,8 +24,8 @@ feature_row:
     title: "Celebrity Guests"
     excerpt: "<p>🎤 Meet face-to-face with greatness!</p><p>Celebrity guest and panel announcements coming soon!</p>><strong>Pro Tip:</strong> Sign up for our [email list](/url signup) to be the first in the know!"
     url: "#test-link"
-    btn_label: "Sign Up!"
-    btn_class: "btn--primary"
+    # btn_label: "Sign Up!"
+    # btn_class: "btn--primary"
   - image_path: /assets/images/placeholderpanel.png
     image_caption: "Artist: [Aubrianna Robinson](https://www.aubriannarobinson.com)"
     alt: "Celebrity Guests"
@@ -37,8 +37,8 @@ feature_row2:
     title: "Follow us on Socials"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
 
 ---
 
