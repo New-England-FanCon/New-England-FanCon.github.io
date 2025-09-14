@@ -23,7 +23,7 @@ feature_row:
     alt: "Celebrity Guests"
     title: "Celebrity Guests"
     excerpt: "<p>🎤 Meet face-to-face with greatness!</p><p>Celebrity guest and panel announcements coming soon!</p>><strong>Pro Tip:</strong> Sign up for our [email list](/url signup) to be the first in the know!"
-    url: "#test-link"
+    # url: "#test-link"
     # btn_label: "Sign Up!"
     # btn_class: "btn--primary"
   - image_path: /assets/images/placeholderpanel.png
@@ -32,11 +32,11 @@ feature_row:
     title: "Panels"
     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Don't delay! <strong>Register today!</strong>"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Follow us on social"
-    title: "Follow us on Socials"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/placeholderpanel.png
+    alt: "Follow us on social media"
+    title: "Follow us!"
+    excerpt: 'Stay in-the-know with the latest and greatest updates. Follow us on Facebook, Instagram, and X for the latest contest, panel, and celebrity announcements.'
+    # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 
