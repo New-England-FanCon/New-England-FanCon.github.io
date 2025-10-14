@@ -99,7 +99,7 @@ tr:nth-child(even){background-color: #f2f2f2}
 tr:nth-child(odd){background-color: #f2f2f2}
 
 th {
-  background-color: #3DC2A9;
+  background-color: #4b8bdbff;
   color: white;
 }
 </style>
@@ -133,24 +133,28 @@ th {
 
 <details>
 <summary><h3>Who should attend New England FanCon?</h3></summary>
-<p>New England FanCon is open to all! We strive to create a friendly environment for fans of all ages to enjoy the close of the con season with a last <em>hurrah!</em></p>
+<p>New England FanCon strives to create a friendly environment for fans of all ages to enjoy the close of the con season with a last <em>hurrah!</em></p>
+
 <p>While this is not an event designed for children, we welcome little ones who are accompanied with an attentive parent or guardian! Please note, while our con's aisles are accessible to wheelchairs, we recommend leaving bulky strollers in the car.</p>
 
 </details>
 
 <details>
 <summary><h3>How can I attend New England FanCon?</h3></summary>
-<p>We offer several ticketing options on our registration pageLINK.</p>
 
-<p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p>
+<p>Registration will be opening soon! Sign up for our email list to be the first in the know!</p>
 
-<p>The <strong>Sunday-Only Pass</strong> will allow for access to the exhibit hall and panels on Sunday, August 16, 2026 from 10:00am - 7:00pm.</p>
+<!-- <p>We offer several ticketing options on our registration pageLINK.</p>
 
-<p>The <strong>Two-Day Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 and Sunday, August 16, 2026 from 10:00am - 7:00pm each day.</p>
+<!-- <p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p> -->
 
-<p>Single Day Passes currently cost <strong>$17</strong>, and the Two-Day Pass costs <strong>$30</strong> for our earlybird special. Pricing will increase closer to the event.</p>
+<!-- <p>The <strong>Sunday-Only Pass</strong> will allow for access to the exhibit hall and panels on Sunday, August 16, 2026 from 10:00am - 7:00pm.</p> -->
 
-<p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p>
+<!-- <p>The <strong>Two-Day Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 and Sunday, August 16, 2026 from 10:00am - 7:00pm each day.</p> -->
+
+<!-- <p>Single Day Passes currently cost <strong>$17</strong>, and the Two-Day Pass costs <strong>$30</strong> for our launch special. Pricing will increase closer to the event.</p> -->
+
+<!-- <p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p> -->
 
 <p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line AND receive an exclusive FanCon sticker pack while supplies last!</p>
 
@@ -160,9 +164,10 @@ th {
 
 <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
-<p>Single Day Passes currently cost $17, and the Two-Day Pass costs $30 for our earlybird special. Pricing will increase closer to the event.</p> 
+<p>At launch, Single Day Passes will cost $17, and the Two-Day Pass will cost $30 for our earlybird special. Pricing will increase closer to the event.</p> 
 
-<p>Children under 10 may attend at no cost when accompanied by an attentive parent/guardian.</p>
+<p>Children between 6 and 12 years of age may attend for a discounted rate of $5 on our registration site when purchased with an adult pass.</p>
+<p>Children under 5 may attend at no cost when accompanied by an attentive parent/guardian. Children under 5 do not need to reserve a ticket.</p>
 
 <p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line AND receive an exclusive FanCon sticker pack while supplies last!</p>
 
@@ -172,7 +177,7 @@ th {
 
 <details>
 <summary><h3>What is the refund policy for New England FanCon?</h3></summary>
-<p>Please send an email to our support team at ___ to request a refund. Refunds requested prior to July 1st, 2026 at 11:59 PM will be granted in full, minus the cost of credit card and processing fees. Refunds requested between July 2nd and July 24th, 2026 at 11:59 PM will be granted at 50% of the purchase price, minus the cost of credit card and processing fees. No refunds will be granted starting July 25th.</p>
+<p>Please send an email to our support team at <strong>nefanconhelp@gmail.com</strong> to request a refund. Refunds requested prior to July 1st, 2026 at 11:59 PM will be granted in full, minus the cost of credit card and processing fees. Refunds requested between July 2nd and July 24th, 2026 at 11:59 PM will be granted at 50% of the purchase price, minus the cost of credit card and processing fees. No refunds will be granted starting July 25th.</p>
 
 </details>
 
@@ -184,7 +189,7 @@ th {
 
 <details>
 <summary><h3>How can I become a sponsor of New England FanCon?</h3></summary>
-<p>For all sponsorship inquiries, please contact ___. Our sponsorship team will reach out with more details on packages and available branding sponsorships.</p>
+<p>For all sponsorship inquiries, please contact <strong>nefanconhelp@gmail.com</strong>. Our sponsorship team will reach out with more details on packages and available branding sponsorships.</p>
 
 </details>
 
@@ -196,19 +201,20 @@ th {
 
 <details>
 <summary><h3>Can I suggest/run a panel?</h3></summary>
-<p>We welcome all suggestions! Send your pitch and any relevant experience to __contact, and we'll contact you shortly!</p>
+<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you shortly!</p>
 
 </details>
 
 <details>
 <summary><h3>Can I bring in outside food/beverage?</h3></summary>
-<p>With the exception of water and accomodating any necessary dietary restrictions, outside food and beverage is not permitted within the Trumbull Marriott Shelton. The hotel offers a restaurant on site, as well as plenty of eating and shopping opportunities just across the street and in the local area.</p>
-<p>New England FanCon will also be inviting a variety of food trucks from 11:00am - 3:00pm. on Saturday and Sunday. These will be located in the hotel parking lot on the shopping center side.</p>
+<p>Outside food and beverage is not permitted within the Trumbull Marriott Shelton. The hotel offers a restaurant on site, as well as plenty of eating and shopping opportunities just across the street and in the local area.</p>
+
+<p>New England FanCon will also be inviting a variety of food trucks from 11:00am - 3:00pm on Saturday and Sunday. These will be located in the hotel parking lot on the shopping center side.</p>
 
 </details>
 
-<details>
+<!-- <details>
 <summary><h3>Does New England FanCon have a hotel room block?</h3></summary>
 <p>Of course! Spots are filling up quick - register today to receive a link to our room block within your confirmation email.</p>
 
-</details>
+</details> -->
