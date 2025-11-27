@@ -4,3 +4,4 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: sunrise
 include:
   - _pages
+title: Home

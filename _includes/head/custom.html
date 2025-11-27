@@ -33,6 +33,10 @@ form {
   background-color: transparent;
 }
 
+.greedy-nav .visible-links a:before {
+  background: #464ff8
+}
+
 blockquote {
   border-inline-start: 0.25em solid #464ff8;
 }
@@ -41,15 +45,15 @@ blockquote {
   color: #fff
 }
 
-#main a {
+a {
   color: #464ff8
 }
 
-#main a:hover {
+a:hover {
   color:#4047c0
 }
 
-#main a:visited {
+a:visited {
   color:#1f2370
 }
 .initial-content a:hover {
@@ -89,21 +93,75 @@ h2 {
 p.page__lead {
   font-family: "Roboto Condensed", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 
 li.masthead__menu-item {
   font-family: "Roboto Condensed", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 
 body {
   font-family: "Roboto Condensed", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
+
+.feature__wrapper .archive__item {
+  display: flex;
+  justify-content: center;
+  max-width: 900px;
+  margin: 1em auto;
+  float: unset;
+}
+
+.feature__wrapper .feature__item--right .archive__item-teaser { order: 2; }
+.feature__wrapper .feature__item--right .archive__item-body { order: 1; }
+
+.feature__wrapper .archive__item .archive__item-teaser {
+  flex: 1;
+}
+
+.feature__wrapper .archive__item .archive__item-body {
+  flex: 1;
+}
+
+.feature__wrapper .archive__item-title {
+  margin-top: 0px;
+}
+
+
+.feature__item--left .archive__item-teaser {
+  float: inline-start; 
+  width: 33%; 
+}
+
+.feature__item--left .archive__item-body { 
+  float: inline-start; 
+  padding-inline-start: 5%;
+}
+
+.feature__item--right .archive__item-teaser {
+  float: inline-end; 
+  width: 35%; 
+}
+
+.feature__wrapper:nth-child(5) .archive__item-teaser {
+  float: inline-end; 
+  width: 27%; 
+}
+
+.feature__item--right {
+  text-align: start;
+}
+
+#mc_embed_shell > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
 </style>
