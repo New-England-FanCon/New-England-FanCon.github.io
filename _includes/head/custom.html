@@ -129,6 +129,7 @@ body {
 
 .feature__wrapper .archive__item .archive__item-teaser {
   flex: 1;
+  align-self: flex-start;
 }
 
 .feature__wrapper .archive__item .archive__item-body {
@@ -138,7 +139,6 @@ body {
 .feature__wrapper .archive__item-title {
   margin-top: 0px;
 }
-
 
 .feature__item--left .archive__item-teaser {
   float: inline-start; 
@@ -162,6 +162,12 @@ body {
 
 .feature__item--right {
   text-align: start;
+}
+
+@media (max-width: 650px) {
+  .archive__item-excerpt blockquote {
+    margin-left: 0px;
+  }
 }
 
 #mc_embed_shell > div {
