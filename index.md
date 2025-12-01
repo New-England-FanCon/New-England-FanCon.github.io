@@ -41,7 +41,7 @@ feature_row3:
      image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
      alt: "Panels"
      title: "Panels"
-     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Don't delay! <strong>Follow us today!</strong>"
+     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Don't delay! <strong>[Follow us](/signup) today!</strong>"
 
 feature_row4:
   - image_path: assets/images/cosplay.jpg
@@ -61,7 +61,7 @@ feature_row2:
   - image_path: /assets/images/logo.png
     alt: "Follow us on social media"
     title: "Follow us!"
-    excerpt: 'Stay in-the-know with the latest and greatest updates. Follow us on Facebook, Instagram, and Bluesky for the latest contest, panel, and celebrity announcements.'
+    excerpt: 'Stay in-the-know with the latest and greatest updates. Follow us on [Facebook](https://www.facebook.com/profile.php?id=61584554849852), [Instagram](https://www.instagram.com/newenglandfancon), and Bluesky for the latest contest, panel, and celebrity announcements.'
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
