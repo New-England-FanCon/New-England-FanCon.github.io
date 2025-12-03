@@ -183,7 +183,7 @@ th {
 
 <details>
 <summary><h3>How can I become a vendor for New England FanCon?</h3></summary>
-<p>Simply fill out our <a href = "https://form.jotform.com/252414776972164" target ="_blank">vendor interest form</a> and our exhibitor management team will reach out with more details!</p>
+<p>Simply fill out our <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd61et73fVw9VBFrkdom0Uxj-weqvirNRWcmycqnkpxGC5RrQ/viewform" target ="_blank">vendor interest form</a> and our exhibitor management team will reach out with more details!</p>
 
 </details>
 
@@ -201,7 +201,9 @@ th {
 
 <details>
 <summary><h3>Can I suggest/run a panel?</h3></summary>
-<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you shortly!</p>
+<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you in early 2026!
+
+Please note, New England FanCon relies on panelists to arrive on time for their panel(s). To ensure accountability, all selected panelists will be required to purchase an admission ticket for their presenting day. This pass will be <strong>refunded in full</strong> once the panelists complete their panel onsite. In the case of a no-show or significant delay that causes the panel to not be run, this pass will not be refunded. If a panelist chooses to purchase a two-day pass and only presents on one day, they will be refunded for the rate of a single day pass at the time of their original purchase. We appreciate your understanding with this policy and encourage any questions to be directed to nefanconhelp@gmail.com.</p>
 
 </details>
 

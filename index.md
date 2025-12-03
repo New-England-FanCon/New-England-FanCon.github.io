@@ -61,7 +61,7 @@ feature_row2:
   - image_path: /assets/images/logo.png
     alt: "Follow us on social media"
     title: "Follow us!"
-    excerpt: 'Stay in-the-know with the latest and greatest updates. Follow us on [Facebook](https://www.facebook.com/profile.php?id=61584554849852), [Instagram](https://www.instagram.com/newenglandfancon), and Bluesky for the latest contest, panel, and celebrity announcements.'
+    excerpt: 'Stay in-the-know with the latest and greatest updates. Follow us on [Facebook](https://www.facebook.com/profile.php?id=61584554849852), [Instagram](https://www.instagram.com/newenglandfancon), and [Bluesky](https://bsky.app/profile/newenglandfancon.bsky.social) for the latest contest, panel, and celebrity announcements.'
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
