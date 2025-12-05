@@ -41,7 +41,7 @@ feature_row3:
      image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
      alt: "Panels"
      title: "Panels"
-     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Don't delay! <strong>[Follow us](/signup) today!</strong>"
+     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Ever wanted to yap about your nerdy passion in front of a crowd? <strong>[Panel applications](https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform?usp=header)</strong> are open today!"
 
 feature_row4:
   - image_path: assets/images/cosplay.jpg
