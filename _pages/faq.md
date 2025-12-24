@@ -59,7 +59,7 @@ details + details {
 
 <p>Our vendors offer everything from figures, manga, trading cards, video games, art, and more! Discover a new favorite indie game from a local creator, or embrace the nostalgia of finding that <em>perfect</em> Pokemon card.</p>
 
-<p>Once your bags are full - come hang out in one of our many panels! From interactive sessions like Comic Design 101 to lunchtime viewings of our music and cosplay contests, our full schedule of fandom panels feature a wide range of interests.</p>
+<p>Once your bags are full - come hang out in one of our many panels! From interactive sessions like Comic Design 101 to breaktime viewings of our music and cosplay contests, our full schedule of fandom panels feature a wide range of interests.</p>
 
 <p>Community photoshoots, trading card swaps, TTRPG game sessions, and more to be announced!</p>
 
@@ -72,7 +72,8 @@ details + details {
 <p><em>Venue address:</em></p>
 <p style="margin-left:3em;">
     Trumbull Marriott Shelton<br />
-    180 Hawley Lane, Trumbull, CT 06611
+    180 Hawley Lane
+    Trumbull, CT 06611
 </p>
 
 </details>
