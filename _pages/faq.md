@@ -72,7 +72,7 @@ details + details {
 <p><em>Venue address:</em></p>
 <p style="margin-left:3em;">
     Trumbull Marriott Shelton<br />
-    180 Hawley Lane
+    180 Hawley Lane<br />
     Trumbull, CT 06611
 </p>
 
@@ -182,6 +182,12 @@ th {
 <details>
 <summary><h3>How can I become a vendor for New England FanCon?</h3></summary>
 <p>Simply fill out our <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd61et73fVw9VBFrkdom0Uxj-weqvirNRWcmycqnkpxGC5RrQ/viewform" target ="_blank">vendor interest form</a> and our exhibitor management team will reach out with more details!</p>
+
+</details>
+
+<details>
+<summary><h3>Are prop weapons allowed with my cosplay?</h3></summary>
+<p>Cosplay props such as foam swords and blasters are permitted at New England FanCon as long as they are not live weapons. No metal/hard weaponry or sharp items are permitted at any time at the event. Cosplayers with fake weapons as part of their costume will be asked to visit the information desk at the entrance of the convention for a marking to show the prop has been checked and permitted into event spaces.</p>
 
 </details>
 
