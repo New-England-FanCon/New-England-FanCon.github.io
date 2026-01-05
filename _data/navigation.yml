@@ -1,11 +1,14 @@
 # main links
 main:
-  - title: "FAQ"
-    url: /faq
-  #- title: "Guests/Artists"
-  #  url: /guests
+
+  - title: "Special Guests"
+    url: /talent
   - title: "Vendors"
     url: /vendors
+  - title: "Sponsors"
+    url: /sponsor
+  - title: "FAQ"
+    url: /faq
   #- title: "Schedule"
   #  url: /schedule
   #- btn_label: "Sign Up!"

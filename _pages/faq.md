@@ -154,7 +154,7 @@ th {
 
 <!-- <p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p> -->
 
-<p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line AND receive an exclusive FanCon surprise gift while supplies last!</p>
+<p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
 
@@ -167,7 +167,7 @@ th {
 <p>Children between 6 and 12 years of age may attend for a discounted rate of $5 on our registration site when purchased with an adult pass.</p>
 <p>Children under 5 may attend at no cost when accompanied by an attentive parent/guardian. Children under 5 do not need to reserve a ticket.</p>
 
-<p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line AND receive an exclusive FanCon surprise gift while supplies last!</p>
+<p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
 

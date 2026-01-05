@@ -1,6 +1,26 @@
-<!-- ---
-permalink: /guests
+---
+permalink: /talent
 
+
+
+---
+
+<style>
+.initial-content {
+  padding: 0 1em;
+}
+
+h3 {
+  margin: 1em 0;
+}
+</style>
+
+<p></p>
+<h1>Celebrity Guests</h1>
+
+<p>Special guests will be announced shortly! Check back soon for all the latest updates, or be the first in the know by signing up for our mailing list!</p>
+
+<!-- ---
 
 feature_row:
   - image_path: /assets/images/placeholderguy.gif
