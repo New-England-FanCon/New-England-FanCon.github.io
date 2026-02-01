@@ -140,7 +140,7 @@ th {
 <details>
 <summary><h3>How can I attend New England FanCon?</h3></summary>
 
-<p>Registration will be opening in spring! Sign up for our email list to be the first in the know!</p>
+<p>Registration will be opening in Spring 2026! Sign up for our email list to be the first in the know!</p>
 
 <!-- <p>We offer several ticketing options on our registration pageLINK.</p>
 
@@ -154,7 +154,7 @@ th {
 
 <!-- <p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p> -->
 
-<p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
+<p>Attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
 
@@ -162,12 +162,13 @@ th {
 
 <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
-<p>To celebrate our launch, the first 200 tickets sold will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event.</p> 
+<p>To celebrate our launch, the first 100 tickets sold will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event.</p> 
 
 <p>Children between 6 and 12 years of age may attend for a discounted rate of $5 on our registration site when purchased with an adult pass.</p>
+
 <p>Children under 5 may attend at no cost when accompanied by an attentive parent/guardian. Children under 5 do not need to reserve a ticket.</p>
 
-<p>As an <strong>EXCLUSIVE pre-order bonus</strong>, attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
+<p>Attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
 
@@ -187,7 +188,7 @@ th {
 
 <details>
 <summary><h3>Are prop weapons allowed with my cosplay?</h3></summary>
-<p>Cosplay props such as foam swords and blasters are permitted at New England FanCon as long as they are not live weapons. No metal/hard weaponry or sharp items are permitted at any time at the event. Cosplayers with fake weapons as part of their costume will be asked to visit the information desk at the entrance of the convention for a marking to show the prop has been checked and permitted into event spaces.</p>
+<p>Cosplay props such as foam swords and foam blasters are permitted at New England FanCon as long as they are not live weapons. No metal/hard weaponry or sharp items are permitted at any time at the event. Cosplayers with fake weapons as part of their costume will be asked to visit the information desk at the entrance of the convention for a marking to show the prop has been checked and is permitted into event spaces.</p>
 
 </details>
 
@@ -205,9 +206,9 @@ th {
 
 <details>
 <summary><h3>Can I suggest/run a panel?</h3></summary>
-<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you in mid 2026!</p>
+<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you in Summer 2026!</p>
 
-<p>Please note, New England FanCon relies on panelists to arrive on time for their panel(s). To ensure accountability, all selected panelists will be required to purchase an admission ticket for their presenting day. This pass will be <strong>refunded in full</strong> once the panelists complete their panel onsite. In the case of a no-show or significant delay that causes the panel to not be run, this pass will not be refunded. If a panelist chooses to purchase a two-day pass and only presents on one day, they will be refunded for the rate of a single day pass at the time of their original purchase. We appreciate your understanding with this policy and encourage any questions to be directed to nefanconhelp@gmail.com.</p>
+<!-- <p>Please note, New England FanCon relies on panelists to arrive on time for their panel(s). To ensure accountability, all selected panelists will be required to purchase an admission ticket for their presenting day. This pass will be <strong>refunded in full</strong> once the panelists complete their panel onsite. In the case of a no-show or significant delay that causes the panel to not be run, this pass will not be refunded. If a panelist chooses to purchase a two-day pass and only presents on one day, they will be refunded for the rate of a single day pass at the time of their original purchase. We appreciate your understanding with this policy and encourage any questions to be directed to nefanconhelp@gmail.com.</p> -->
 
 </details>
 
