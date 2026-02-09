@@ -32,6 +32,10 @@ summary {
   -webkit-user-select: none; /* Safari */
 }
 
+summary h3 {
+  display: inline-block;
+}
+
 details summary {
   list-style-type: '➭ ';
 }
