@@ -41,4 +41,6 @@ h3 {
 
 <p>Minors must be accompanied by an attentive parent or legal guardian at all times. Guardians are responsible for the conduct and safety of minors in their care.</p>
 
-</a>
+<p>In the case of the cancellation of the New England FanCon event, tickets will be refunded in full. Refunds requested prior to July 1st, 2026 at 11:59 PM will be granted in full, minus the cost of credit card and processing fees. Refunds requested between July 2nd and July 24th, 2026 at 11:59 PM will be granted at 50% of the purchase price, minus the cost of credit card and processing fees. No refunds will be granted starting July 25th.</p>
+
+<p>For any refund requests, please reach out to nefanconhelp@gmail.com.</p>
