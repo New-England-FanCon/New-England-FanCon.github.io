@@ -13,6 +13,8 @@ main:
   #  url: /schedule
   #- btn_label: "Sign Up!"
   #  btn_class: "btn--primary"
+  - title: Terms
+    url: /terms
   - title: Sign up!
     url: /signup
     
