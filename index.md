@@ -43,7 +43,7 @@ feature_row3:
      title: "Panels"
      excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Ever wanted to yap about your nerdy passion in front of a crowd? Panel applications are open today!"
      url: "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform?usp=header"
-     btn_label: "Panelist Application"
+     btn_label: <font color="#000">Panelist Application</font>
      btn_class: "btn--primary"
 
 feature_row4:
