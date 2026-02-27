@@ -1,12 +1,12 @@
 # main links
 main:
 
-  - title: "Special Guests"
-    url: /talent
+  # - title: "Special Guests"
+  #   url: /talent
   - title: "Vendors"
     url: /vendors
-  - title: "Sponsors"
-    url: /sponsor
+  # - title: "Sponsors"
+  #   url: /sponsor
   - title: "FAQ"
     url: /faq
   #- title: "Schedule"
