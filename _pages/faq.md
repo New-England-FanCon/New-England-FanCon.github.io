@@ -166,16 +166,43 @@ th {
 
 <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
-<p>To celebrate our launch, the first 100 tickets sold will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event.</p> 
+<p>To celebrate our launch, the first 100 tickets sold will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event. Please see the chart below for pricing cutoffs.</p> 
 
 <p>Children between 6 and 12 years of age may attend for a discounted rate of $5 on our registration site when purchased with an adult pass.</p>
 
 <p>Children under 5 may attend at no cost when accompanied by an attentive parent/guardian. Children under 5 do not need to reserve a ticket.</p>
 
+<table class="center-table">
+  <thead>
+    <tr>
+        <th></th>
+        <th>First 100 Passes</th>
+        <th>Purchase by June 30th</th>
+        <th>Purchase by July 31st</th>
+        <th>Purchase after July 31st</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Single Day Passes</td>
+        <td>$17</td>
+        <td>$22</td>
+        <td>$25</td>
+        <td>$30</td>
+    </tr>
+    <tr>
+        <td>Two-Day Pass</td>
+        <td>$30</td>
+        <td>$37</td>
+        <td>$40</td>
+        <td>$45</td>
+    </tr>
+  </tbody>
+</table>
+
 <p>Attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
-
 </details>
 
 <details>
@@ -226,6 +253,6 @@ th {
 
 <!-- <details>
 <summary><h3>Does New England FanCon have a hotel room block?</h3></summary>
-<p>Of course! Spots are filling up quick - register today to receive a link to our room block within your confirmation email.</p>
+<p>Of course! Spots are filling up quick - register today to receive a link to our room block on your confirmation page!</p>
 
 </details> -->
