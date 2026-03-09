@@ -34,7 +34,7 @@ h3 {
 
 <p>By car:</p>
 <ul>
-    <li>Take I-278 E/Bruckner Expy and I-95 N to Penny Ave in Trumbull.</p></li>
+    <li>Take I-278 E/Bruckner Expy and I-95 N to Penny Ave in Trumbull.</li>
     <li>Take exit 5 from CT-8 N
     <li>Continue on Penny Ave to the destination</li>
 </ul>
@@ -48,7 +48,7 @@ h3 {
 
 <p>By car:</p>
 <ul>
-    <li>Navigate to I-95 S</p></li>
+    <li>Navigate to I-95 S</li>
     <li>Take CT-15 S to CT-108 W/State Rte 108 W/Nichols Ave in Trumbull. Take exit 34 from CT-15 S</li>
     <li>Continue on CT-108 W/State Rte 108 W/Nichols Ave to the destination</li>
 </ul>

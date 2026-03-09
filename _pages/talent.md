@@ -16,7 +16,7 @@ h3 {
 <p></p>
 <h1>Celebrity Guests</h1>
 
-<p>Meet and greets are included with your FanCon tickets. The following guests will be available both Saturday and Sunday for autographs* and more! More celebrity talent to be announced soon. Be the first in the know by signing up for our mailing list.</p>
+<p>Meet and greets are included with your FanCon tickets. The following guests will be available both Saturday and Sunday for autographs* and more! More celebrity talent to be announced soon. Be the first in the know by signing up for our <a href='/signup'>mailing list</a>.</p>
 
 <p>*Additional fees may apply</p>
 
@@ -65,7 +65,7 @@ feature_row5:
 
 <!-- <p>Check back soon for celebrity guest announcements! Sign up for our mailing list and follow us on socials to be the first in the know!</p> -->
 
-{% include feature_row id="feature_row" type="left" %}
+<!-- {% include feature_row id="feature_row" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
@@ -73,4 +73,4 @@ feature_row5:
 
 {% include feature_row id="feature_row4" type="right" %}
 
-{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row5" type="left" %} -->
