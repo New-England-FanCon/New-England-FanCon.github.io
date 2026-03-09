@@ -35,7 +35,7 @@ h3 {
 <p>By car:</p>
 <ul>
     <li>Take I-278 E/Bruckner Expy and I-95 N to Penny Ave in Trumbull.</li>
-    <li>Take exit 5 from CT-8 N
+    <li>Take exit 5 from CT-8 N</li>
     <li>Continue on Penny Ave to the destination</li>
 </ul>
 
