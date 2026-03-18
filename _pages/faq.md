@@ -144,17 +144,13 @@ th {
 <details>
 <summary><h3>How can I attend New England FanCon?</h3></summary>
 
-<p>Registration will be opening in Spring 2026! Sign up for our email list to be the first in the know!</p>
+<p><a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">Registration will be opening on April 1st, 2026!</a></p>
 
-<!-- <p>We offer several ticketing options on our registration pageLINK.</p>
+<p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p>
 
-<!-- <p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p> -->
+<p>The <strong>Sunday-Only Pass</strong> will allow for access to the exhibit hall and panels on Sunday, August 16, 2026 from 10:00am - 7:00pm.</p>
 
-<!-- <p>The <strong>Sunday-Only Pass</strong> will allow for access to the exhibit hall and panels on Sunday, August 16, 2026 from 10:00am - 7:00pm.</p> -->
-
-<!-- <p>The <strong>Two-Day Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 and Sunday, August 16, 2026 from 10:00am - 7:00pm each day.</p> -->
-
-<!-- <p>Single Day Passes currently cost <strong>$17</strong>, and the Two-Day Pass costs <strong>$30</strong> for our launch special. Pricing will increase closer to the event.</p> -->
+<p>The <strong>Two-Day Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 and Sunday, August 16, 2026 from 10:00am - 7:00pm each day.</p>
 
 <!-- <p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p> -->
 
@@ -166,7 +162,7 @@ th {
 
 <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
-<p>To celebrate our launch, the first 100 tickets sold will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event. Please see the chart below for pricing cutoffs.</p> 
+<p>To celebrate our launch, the <a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">first 100 tickets sold</a> will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event. Please see the chart below for pricing cutoffs.</p> 
 
 <p>Children between 6 and 12 years of age may attend for a discounted rate of $5 on our registration site when purchased with an adult pass.</p>
 
