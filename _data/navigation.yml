@@ -13,10 +13,10 @@ main:
   #  url: /schedule
   #- btn_label: "Sign Up!"
   #  btn_class: "btn--primary"
-  - title: Sign up!
-    url: /signup
-  # - title: Register now!
-  #   url: /
+  # - title: Sign up!
+  #   url: /signup
+  - title: Register Now!
+    url: https://conventy.com/events/nefancon26/purchase
     
   # - title: "Sample Posts"
   #   url: /year-archive/
