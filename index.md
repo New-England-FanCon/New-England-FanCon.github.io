@@ -53,7 +53,7 @@ feature_row4:
     image_caption: "Image courtesy of [@aciddcupcake](https://www.instagram.com/aciddcupcake/)"
     alt: "Cosplay"
     title: "Cosplay"
-    excerpt: "<p>🪡 Put your cosplay skills to the test!</p><p>Sign up for our <a href='/signup'>email list</a> for our contest announcements!</p>>Casual cosplayer? Keep an eye out for our themed photoshoots!"
+    excerpt: "<p>🎮 Put your cosplay skills to the test!</p><p>Sign up for our <a href='/signup'>email list</a> for our contest announcements!</p>>Casual cosplayer? Keep an eye out for our themed photoshoots!"
 
 # feature_row5:  
 #   - image_path: /assets/images/celebs.jpeg
