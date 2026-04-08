@@ -27,7 +27,7 @@ h3 {
     <style>
         .grid-layout {
             display: grid;
-            grid-template-columns: 350px 1fr;
+            grid-template-columns: 300px 1fr;
             gap: 15px;
             align-items: center;
         }
@@ -41,8 +41,8 @@ h3 {
     <div class="grid-layout">
         <img src=
 "/assets/images/rick.png" 
-             alt="image of Rick Stromoski with backdrop of comic works"
-            width="350" height="900">
+          alt="image of Rick Stromoski with backdrop of comic works"
+          width="300" height="600">
         <p> Over the course of his career, <strong>Rick Stromoski</strong> has created <strong>three nationally syndicated comic strips</strong> between 1987 and 2018, bringing his humor and distinctive style to audiences across the country. He is the creator of Soup to Nuts, which ran in over <strong>150 newspapers for 18 years!</strong> He is also the creator of the bestselling middle grade graphic novel series Schnozzer & Tatertoes. Alongside his original works, you can see his illustrations in numerous children’s books for major publishers and hundreds of greeting cards for leading national card companies. He has also contributed to advertising, licensing, and network television, showcasing his versatility as an artist and storyteller. He’s also known for teaching cartooning workshops and inspiring the next generation of artists with his fun, approachable style.
         </p>
     </div>
@@ -56,7 +56,7 @@ h3 {
         <img src=
 "/assets/images/dick.png" 
              alt="image of Dick Terhune with backdrop of comic works"
-            width="350" height="900">
+            width="300" height="600">
         <p> <strong>Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens. Beyond games and animation, Dick has lent his voice to national commercials, including <strong>Little Caesars</strong> (rumor has it you can bring some pizza boxes for him to sign!), and has an impressive background in theater, most notably his one-man production of A Christmas Carol.</p>
     </div>
 </body>
