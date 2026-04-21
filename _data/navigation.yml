@@ -1,8 +1,8 @@
 # main links
 main:
 
-  # - title: "Special Guests"
-  #   url: /talent
+  - title: "Special Guests"
+    url: /talent
   - title: "Vendors"
     url: /vendors
   # - title: "Sponsors"
