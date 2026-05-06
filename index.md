@@ -25,7 +25,7 @@ feature_row:
     image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
     alt: "Celebrity Guests"
     title: "Celebrity Guests"
-    excerpt: "<p><a href='/talent'>Celebrity guest</a> and panel announcements coming soon!</p>"
+    excerpt: "<p>Check out our announced <a href='/talent'>celebrity guests!</a> MORE coming soon!</p>"
     # ><strong>Pro Tip:</strong> Sign up for our [email list](/signup) to be the first in the know!"
   - image_path: /assets/images/sponsors.png
     # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"

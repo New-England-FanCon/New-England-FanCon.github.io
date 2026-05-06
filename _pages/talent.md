@@ -52,6 +52,20 @@ h3 {
 {% include feature_row id="feature_row" type="left" %}
 
 <body>
+    <h2>Salli Saffioti</h2>
+    <div class="grid-layout">
+        <img src=
+"/assets/images/salli.png" 
+          alt="image of Salli Saffioti with backdrop of works"
+          width="325" height="600">
+    </div>
+</body>
+
+<p><strong>Monster High, Resident Evil, Fire Emblem, & More!</strong> Salli started her career at a young age in NYC when she was bitten by the theatre bug. She went on to perform in hundreds of plays and had a theatre company in NYC for several years before relocating to Los Angeles. There she was cast in TV shows and films and continued doing theatre in Los Angeles. Her career then spread to Voiceover. Today she works in voiceover daily and is starting to get back in front of the camera on TV and film. She dabbles in writing and prides herself on being a very involved mom to her son Max, who does a little voiceover himself.</p>
+
+{% include feature_row id="feature_row" type="left" %}
+
+<body>
     <h2>Rick Stromoski</h2>
     <div class="grid-layout">
         <img src=
