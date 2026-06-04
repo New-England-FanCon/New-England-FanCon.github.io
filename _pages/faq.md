@@ -59,7 +59,7 @@ details + details {
 <details open>
 <summary><h3>What is New England FanCon?</h3></summary>
 
-<p>A celebration of all things fandom and pop culture, New England FanCon offers family-friendly fun for fans of all ages. From anime and comics to cartoons and video games, find something for everyone!</p>
+<p>A celebration of all things fandom and pop culture, <a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">New England FanCon</a> offers family-friendly fun for fans of all ages. From anime and comics to cartoons and video games, find something for everyone!</p>
 
 <p>Our vendors offer everything from figures, manga, trading cards, video games, art, and more! Discover a new favorite indie game from a local creator, or embrace the nostalgia of finding that <em>perfect</em> Pokemon card.</p>
 
@@ -144,7 +144,7 @@ th {
 <details>
 <summary><h3>How can I attend New England FanCon?</h3></summary>
 
-<p><a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">Registration will be opening on April 1st, 2026!</a></p>
+<p><a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">Purchase your tickets here!</a></p>
 
 <p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p>
 
@@ -242,8 +242,8 @@ th {
 <details>
 <summary><h3>Can I bring in outside food/beverage?</h3></summary>
 <p>Outside food and beverage is not permitted within the Trumbull Marriott Shelton. The hotel offers a restaurant on site, as well as plenty of eating and shopping opportunities just across the street and in the local area.</p>
-
-<p>New England FanCon will also be inviting a variety of food trucks from 11:00am - 3:00pm on Saturday and Sunday. These will be located in the hotel parking lot on the shopping center side.</p>
+<!-- 
+<p>New England FanCon will also be inviting a variety of food trucks from 11:00am - 3:00pm on Saturday and Sunday. These will be located in the hotel parking lot on the shopping center side.</p> -->
 
 </details>
 

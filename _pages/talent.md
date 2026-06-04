@@ -66,6 +66,39 @@ h3 {
 {% include feature_row id="feature_row" type="left" %}
 
 <body>
+    <h2>Dick Terhune</h2>
+    <div class="grid-layout">
+        <img src=
+"/assets/images/dick.png" 
+             alt="image of Dick Terhune with backdrop of comic works"
+            width="325" height="600">
+    </div>
+</body>
+
+<p> <strong>Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens.</p>
+<p>Beyond games and animation, Dick has lent his voice to national commercials, including <strong>Little Caesars</strong> (rumor has it you can bring some pizza boxes for him to sign!), and has an impressive background in theater, most notably his one-man production of A Christmas Carol.</p>
+
+{% include feature_row id="feature_row" type="left" %}
+
+<body>
+    <h2>Bill Lobley</h2>
+    <div class="grid-layout">
+        <img src=
+"/assets/images/bill.png" 
+          alt="image of Bill Lobley with backdrop of comic works"
+          width="325" height="600">
+    </div>
+</body>
+
+<p> Voice Actor Bill Lobley has been voicing wholesome good guys and bloodthirsty villains alike for many years. Appearing as <strong>Huck in the Emmy Award winning Arcane</strong>, Adult Swim’s hilarious OMG Yes!, and Kid Cudi’s Entergalactic, he continues to add to a widely varied resume that includes Adult Swim's Sealab 2021 (Sparks), <strong>Bioshock 2</strong> (Stanley Poole), and Bioshock Infinite (Jeremiah Fink). </p>
+
+<p>Video Game titles include <strong>Fallout 76</strong>, Just Cause 3 (Sheldon), Mafia II, The Darkness (Bragg), <strong>Star Wars TOR</strong>, LA Noire, and others. including the Commander in Republican Space Rangers for the Grand Theft Auto Series. On the more kid friendly side, he’s heard on Nickelodeon Butterbean's Cafe, and Wallykazam, the upcoming Clark The Shark, as well as in countless audiobook titles for Scholastic, and the award winning Geronimo Stilton book series. </p>
+
+<p>Anime titles include Mazinger Z as Count Brocken, Bullet/Bullet, MFKZ, Lastman, Fireworks, Phantom Boy, and others. And.... he’s also voiced Skeletor, The Hamburglar, Top Cat’s Officer Dibble and even the Parkay Margarine Tub! When not in the Studio, Bill thrives on meeting Game Players and Cartoon Aficionados both online and in person.</p>
+
+{% include feature_row id="feature_row" type="left" %}
+
+<body>
     <h2>Rick Stromoski</h2>
     <div class="grid-layout">
         <img src=
@@ -78,21 +111,6 @@ h3 {
 <p> Over the course of his career, <strong>Rick Stromoski</strong> has created <strong>three nationally syndicated comic strips</strong> between 1987 and 2018, bringing his humor and distinctive style to audiences across the country. He is the creator of Soup to Nuts, which ran in over <strong>150 newspapers for 18 years!</strong> He is also the creator of the bestselling middle grade graphic novel series Schnozzer & Tatertoes.</p>
 <p>Alongside his original works, you can see his illustrations in numerous children’s books for major publishers and hundreds of greeting cards for leading national card companies. He has also contributed to advertising, licensing, and network television, showcasing his versatility as an artist and storyteller. He’s also known for teaching cartooning workshops and inspiring the next generation of artists with his fun, approachable style.
 </p>
-
-{% include feature_row id="feature_row" type="left" %}
-
-<body>
-    <h2>Dick Terhune</h2>
-    <div class="grid-layout">
-        <img src=
-"/assets/images/dick.png" 
-             alt="image of Dick Terhune with backdrop of comic works"
-            width="325" height="600">
-    </div>
-</body>
-
-<p> <strong>Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens.</p>
-<p>Beyond games and animation, Dick has lent his voice to national commercials, including <strong>Little Caesars</strong> (rumor has it you can bring some pizza boxes for him to sign!), and has an impressive background in theater, most notably his one-man production of A Christmas Carol.</p>
 
 <!-- 
 feature_row:

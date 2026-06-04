@@ -3,12 +3,12 @@ main:
 
   - title: "Special Guests"
     url: /talent
+  - title: "FAQ"
+    url: /faq
   - title: "Vendors"
     url: /vendors
   # - title: "Sponsors"
   #   url: /sponsor
-  - title: "FAQ"
-    url: /faq
   #- title: "Schedule"
   #  url: /schedule
   #- btn_label: "Sign Up!"
