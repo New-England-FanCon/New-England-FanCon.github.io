@@ -18,6 +18,7 @@ h3 {
 
 <p></p>
 <h1>Sitemap</h1>
+<p><a href='/cosplay'>Cosplay Contest & Photoshoots</a></p>
 <p><a href='/signup'>Email Signup</a></p>
 <p><a href='/faq'>FAQ - Frequently Asked Questions</a></p>
 <p><a href='/index'>Home</a></p>
@@ -25,4 +26,4 @@ h3 {
 <p><a href='/sponsor'>Sponsor Information</a></p>
 <p><a href='/talent'>Talent & Celebrity Guests</a></p>
 <p><a href='/terms'>Terms & Conditions</a></p>
-<p><a href='/vend'>Vendor Information</a></p>
+<p><a href='/vendors'>Vendor Information</a></p>

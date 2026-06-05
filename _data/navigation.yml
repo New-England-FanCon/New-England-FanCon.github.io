@@ -7,8 +7,8 @@ main:
     url: /faq
   - title: "Vendors"
     url: /vendors
-  # - title: "Sponsors"
-  #   url: /sponsor
+  - title: "Contests"
+    url: /cosplay
   #- title: "Schedule"
   #  url: /schedule
   #- btn_label: "Sign Up!"
