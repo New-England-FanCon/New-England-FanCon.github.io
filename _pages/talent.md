@@ -66,16 +66,45 @@ h3 {
 {% include feature_row id="feature_row" type="left" %}
 
 <body>
-    <h2>Dick Terhune</h2>
+    <h2>Joe Zieja</h2>
     <div class="grid-layout">
         <img src=
-"/assets/images/dick.png" 
-             alt="image of Dick Terhune with backdrop of comic works"
+"/assets/images/joe.png" 
+             alt="image of Joe Zieja with backdrop of works"
             width="325" height="600">
     </div>
 </body>
 
-<p> <strong>Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens.</p>
+<p><strong>Fire Emblem, Genshin Impact, Legend of Zelda, Pixar, Marvel Rivals, & More!</strong> Joe Zieja is a voice actor and author in the Los Angeles area. You've heard him as the voice of:</p>
+
+<ul>
+    <li>Claude in Nintendo’s FIRE EMBLEM: THREE HOUSES</li>
+    <li>Wriothesley in GENSHIN IMPACT</li>
+    <li>Kazutora in TOKYO REVENGERS</li>
+    <li>Tomoya Serizawa in SUZUME</li>
+    <li>Bumblebee in Netflix's TRANSFORMERS: WFC Trilogy</li>
+    <li>Various Voices in Netflix's ARCANE</li>
+    <li>Benson & Danvers in EA's DEAD SPACE</li>
+    <li>Fox McCloud in Nintendo's STAR FOX ZERO: THE BATTLE BEGINS</li>
+</ul>
+
+<p>and you've heard him in INCREDIBLES 2, JUST CAUSE 4, MARVEL RIVALS and many other projects in the corporate, commercial, promo, and gaming/animation world! He's narrated thousands of projects for Fortune 500 companies while simultaneously playing a very convincing drunk panda bear and other characters for video games and animation.</p>
+
+<p>Joe is the author of the EPIC FAILURE trilogy, the first book of which debuted in June 2016 from Simon and Schuster.</p>
+
+{% include feature_row id="feature_row" type="left" %}
+
+<body>
+    <h2>Dick Terhune</h2>
+    <div class="grid-layout">
+        <img src=
+"/assets/images/dick.png" 
+             alt="image of Dick Terhune with backdrop of works"
+            width="325" height="600">
+    </div>
+</body>
+
+<p><strong>Transformers, World of Warcraft, & More!</strong><strong>Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens.</p>
 <p>Beyond games and animation, Dick has lent his voice to national commercials, including <strong>Little Caesars</strong> (rumor has it you can bring some pizza boxes for him to sign!), and has an impressive background in theater, most notably his one-man production of A Christmas Carol.</p>
 
 {% include feature_row id="feature_row" type="left" %}
@@ -85,12 +114,12 @@ h3 {
     <div class="grid-layout">
         <img src=
 "/assets/images/bill.png" 
-          alt="image of Bill Lobley with backdrop of comic works"
+          alt="image of Bill Lobley with backdrop of works"
           width="325" height="600">
     </div>
 </body>
 
-<p> Voice Actor Bill Lobley has been voicing wholesome good guys and bloodthirsty villains alike for many years. Appearing as <strong>Huck in the Emmy Award winning Arcane</strong>, Adult Swim’s hilarious OMG Yes!, and Kid Cudi’s Entergalactic, he continues to add to a widely varied resume that includes Adult Swim's Sealab 2021 (Sparks), <strong>Bioshock 2</strong> (Stanley Poole), and Bioshock Infinite (Jeremiah Fink). </p>
+<p><strong>Arcane, Bioshock, Fallout, & More!</strong>Voice Actor Bill Lobley has been voicing wholesome good guys and bloodthirsty villains alike for many years. Appearing as <strong>Huck in the Emmy Award winning Arcane</strong>, Adult Swim’s hilarious OMG Yes!, and Kid Cudi’s Entergalactic, he continues to add to a widely varied resume that includes Adult Swim's Sealab 2021 (Sparks), <strong>Bioshock 2</strong> (Stanley Poole), and Bioshock Infinite (Jeremiah Fink). </p>
 
 <p>Video Game titles include <strong>Fallout 76</strong>, Just Cause 3 (Sheldon), Mafia II, The Darkness (Bragg), <strong>Star Wars TOR</strong>, LA Noire, and others. including the Commander in Republican Space Rangers for the Grand Theft Auto Series. On the more kid friendly side, he’s heard on Nickelodeon Butterbean's Cafe, and Wallykazam, the upcoming Clark The Shark, as well as in countless audiobook titles for Scholastic, and the award winning Geronimo Stilton book series. </p>
 
