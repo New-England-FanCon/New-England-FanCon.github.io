@@ -104,7 +104,7 @@ h3 {
     </div>
 </body>
 
-<p><strong>Transformers, World of Warcraft, & More!</strong><strong>Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens.</p>
+<p><strong>Transformers, World of Warcraft, & More!</strong><strong> Dick Terhune</strong> has brought a wide range of unforgettable characters to life across animation, gaming, and beyond. Fans of <strong>Transformers: Cyberverse</strong> will recognize him as Maccadam, Prowl, and the Quintesson Scientist. Gamers may know him in indie titles like Pinstripe as Mr. Pinstripe, as well as major titles like <strong>Hearthstone</strong> as Patchwerk, and throughout <strong>World of Warcraft</strong> as Worgens.</p>
 <p>Beyond games and animation, Dick has lent his voice to national commercials, including <strong>Little Caesars</strong> (rumor has it you can bring some pizza boxes for him to sign!), and has an impressive background in theater, most notably his one-man production of A Christmas Carol.</p>
 
 {% include feature_row id="feature_row" type="left" %}
@@ -119,7 +119,7 @@ h3 {
     </div>
 </body>
 
-<p><strong>Arcane, Bioshock, Fallout, & More!</strong>Voice Actor Bill Lobley has been voicing wholesome good guys and bloodthirsty villains alike for many years. Appearing as <strong>Huck in the Emmy Award winning Arcane</strong>, Adult Swim’s hilarious OMG Yes!, and Kid Cudi’s Entergalactic, he continues to add to a widely varied resume that includes Adult Swim's Sealab 2021 (Sparks), <strong>Bioshock 2</strong> (Stanley Poole), and Bioshock Infinite (Jeremiah Fink). </p>
+<p><strong>Arcane, Bioshock, Fallout, & More!</strong> Voice Actor Bill Lobley has been voicing wholesome good guys and bloodthirsty villains alike for many years. Appearing as <strong>Huck in the Emmy Award winning Arcane</strong>, Adult Swim’s hilarious OMG Yes!, and Kid Cudi’s Entergalactic, he continues to add to a widely varied resume that includes Adult Swim's Sealab 2021 (Sparks), <strong>Bioshock 2</strong> (Stanley Poole), and Bioshock Infinite (Jeremiah Fink). </p>
 
 <p>Video Game titles include <strong>Fallout 76</strong>, Just Cause 3 (Sheldon), Mafia II, The Darkness (Bragg), <strong>Star Wars TOR</strong>, LA Noire, and others. including the Commander in Republican Space Rangers for the Grand Theft Auto Series. On the more kid friendly side, he’s heard on Nickelodeon Butterbean's Cafe, and Wallykazam, the upcoming Clark The Shark, as well as in countless audiobook titles for Scholastic, and the award winning Geronimo Stilton book series. </p>
 
