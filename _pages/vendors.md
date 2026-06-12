@@ -25,6 +25,7 @@ h3 {
 
 <img src="/assets/images/complex.jpg" alt="image_description" width="500" height="310">
 
+<p></p>
 <h1>Current Vendors</h1>
 
 <p>Check out our current roster of vendors for the 2026 event below!</p>
