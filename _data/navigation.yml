@@ -9,8 +9,8 @@ main:
     url: /vendors
   - title: "Contests"
     url: /cosplay
-  #- title: "Schedule"
-  #  url: /schedule
+  - title: "Schedule"
+    url: https://conventy.com/events/nefancon26/schedule
   #- btn_label: "Sign Up!"
   #  btn_class: "btn--primary"
   # - title: Sign up!

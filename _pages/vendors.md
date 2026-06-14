@@ -23,6 +23,8 @@ h3 {
 
 <p>Vending spaces and room availability below are subject to change. Final booth assignments will be provided at least two weeks prior to the event.</p>
 
+<p>Please note, New England FanCon does not accept vendors with AI products.</p>
+
 <img src="/assets/images/complex.jpg" alt="image_description" width="500" height="310">
 
 <p></p>
