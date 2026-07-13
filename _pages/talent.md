@@ -16,9 +16,11 @@ h3 {
 <p></p>
 <h1>Celebrity Guests</h1>
 
-<p>Meet and greets are included with your FanCon tickets. The following guests will be available both Saturday and Sunday for autographs* and more! More celebrity talent to be announced soon! Be the first in the know by signing up for our <a href='/signup'>mailing list</a>.</p>
+<p>Meet and greets are included with your FanCon tickets. The following guests will be available both Saturday and Sunday for autographs* and more!</p>
 
-<p>*Additional fees may apply</p>
+ <!-- More celebrity talent to be announced soon! Be the first in the know by signing up for our <a href='/signup'>mailing list</a>.</p> -->
+
+<p>*Additional fees apply</p>
 
 <head>
     <meta charset="UTF-8">
@@ -49,6 +51,25 @@ h3 {
 <p><strong>Monster High, Ever After High, Barbie, & More!</strong> Garrett started his career as a Packaging Designer at Mattel, working on brands such as Winx Club, Polly Pocket, and My Scene. Garrett then moved to Product Design where he <strong>created the Monster High brand</strong> and oversaw the design and development of the franchise! He also helped <strong>co-create the Ever After High</strong> Franchise!</p>
 <p>As part of the Mattel Creations team, Garrett oversaw the Art Direction for <strong>Barbie animated content</strong> including Dreamtopia, Barbie Video Game Hero, Barbie Dreamhouse Adventures, Barbie Dolphin Magic, and Barbie Vlogger! Garrett is also working on his own new independent concept: <strong>Gravestone Guardians</strong>!</p>
         
+{% include feature_row id="feature_row" type="left" %}
+
+<body>
+    <h2>Chris Hackney</h2>
+    <div class="grid-layout">
+        <img src=
+"/assets/images/chris.jpeg" 
+          alt="image of Chris Hackney with backdrop of roles"
+          width="325" height="600">
+    </div>
+</body>
+
+<p><strong>Gundam, Fire Emblem, Legend of Zelda, Hunter x Hunter, Genshin Impact & More!</strong> King, heartthrob, prince, demon, and everything in between, Chris Hackney has voiced it all.</p>
+
+<p>Originally from Florida, Chris found his way to acting when in college for music. While looking for more outlets for artistic exrpession, he discovered an entire new world of creativity in acting. Several years of training and a cross-country move later, Chris has found his life and passion in voiceover.</p>
+
+<p>Chris can be heard in various forms including commericals, video games, anime, and animation. He is known for roles in Legend of Zelda, Fire Emblem: Three Houses, Armored. Core 6, Hunter X Hunter, Demon Slayer, Genshin Impact, and so many more! Chrios is always looking forward to the next exciting opportunity he can lend his passion to.
+</p>
+                
 {% include feature_row id="feature_row" type="left" %}
 
 <body>

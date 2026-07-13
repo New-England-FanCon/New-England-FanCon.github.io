@@ -33,32 +33,45 @@ h3 {
 <p>Check out our current roster of vendors for the 2026 event below!</p>
 
 <ul>
+  <li>Apothite</li>
   <li>AquaSpiderArt</li>
   <li>Arilyn’s Studio</li>
+  <li>Bash.Cos</li>
+  <li>Captain Zorikh's Watch This Space!</li>
   <li>Cartoon Yourself!</li>
+  <li>Cat Mewniverse</li>
+  <li>Chaotic Cutie</li>
   <li>Chronicles of Krarshe</li>
   <li>Circle Pit LLC </li>
   <li>Clown Crossing</li>
+  <li>Cool Bri's Smoothies</li>
+  <li>Cozy Coven Creations</li>
   <li>David Schweitzer</li>
   <li>Elegant Potato Anime</li>
   <li>Fantastic Books</li>
   <li>Find Ur Duo</li>
   <li>Firestia Art</li>
+  <li>Gamer's Guild, CT</li>
+  <li>Genius Level Productions</li>
   <li>Grey Goblin Cartoons </li>
   <li>Impact Comic Studios</li>
   <li>Jimmy Giegerich Illustration</li>
   <li>Jules A.W. Illustration</li>
   <li>Lemon Ray Shop</li>
   <li>LitePK Illustrations</li>
+  <li>Made by Mulchy</li>
+  <li>Michael Blank Fantasy Art</li>
   <li>Milky Moonbow</li>
   <li>MOOWSIE</li>
   <li>Noah Alperin</li>
   <li>PhyllidaLuna</li>
+  <li>Rain Aung Art</li>
   <li>Ravelran Explorer</li>
   <li>Rebel Oasis Studios</li>
   <li>Reignebo Art</li>
+  <li>Riverview Sewing Studio</li>
   <li>Rylucius</li>
-  <li>Sone's Stories</li>
+  <li>SketchPadCreations</li>
   <li>Spike O. Studio</li>
   <li>Sugar and Jazz Studio</li>
   <li>Sybbatra</li>
@@ -69,4 +82,5 @@ h3 {
   <li>Trot L’Oeil Artistry</li>
   <li>Valenza Publishing</li>
   <li>ViVa Love Earrings</li>
+  <li>Wildshape Workshop</li>
 </ul>
