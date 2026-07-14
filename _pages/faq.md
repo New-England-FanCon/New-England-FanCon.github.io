@@ -131,6 +131,8 @@ th {
   </tbody>
 </table>
 
+<p>Attendees are also invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
+
 </details>
 
 <details>
@@ -152,9 +154,9 @@ th {
 
 <p>The <strong>Two-Day Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 and Sunday, August 16, 2026 from 10:00am - 7:00pm each day.</p>
 
-<!-- <p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p> -->
+<p>All passes can be picked up during all posted Registration Hours, and do not need to be picked up on the day they apply.</p>
 
-<p>Attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
+<p>Attendees are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
 
@@ -196,7 +198,7 @@ th {
   </tbody>
 </table>
 
-<p>Attendees who purchase tickets prior to <strong>May 31st, 2026</strong> are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
+<p>Attendees are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
 </details>
