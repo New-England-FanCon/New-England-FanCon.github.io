@@ -14,7 +14,7 @@ intro:
   # - excerpt: <iframe width="300" height="154" src="https://w2.countingdownto.com/6910620" frameborder="0"></iframe>
   - excerpt: <h1>August 15-16, 2026</h1>
   - excerpt: 'A celebration of all things fandom and pop culture, New England FanCon offers family-friendly fun for fans of all ages. From anime and comics to cartoons and video games, find something for everyone!'
-  - excerpt: 'With your <strong>[FanCon ticket](https://conventy.com/events/nefancon26/purchase)</strong>, highlights include: <strong>[Cosplay Competitions](/cosplay)</strong>, an <strong>Off-Broadway Performance</strong>, live music, local artists & authors, and special guests - including <strong>[voice actors](/talent)</strong> from your favorite franchises and the creator of <strong>Monster High</strong>!'
+  - excerpt: 'With your <strong>[FanCon ticket](https://conventy.com/events/nefancon26/purchase)</strong>, highlights include: <strong>[Cosplay Competitions](/cosplay)</strong>, an <strong>[Off-Broadway Performance](https://conventy.com/events/nefancon26/schedule)</strong>, live music, local artists & authors, and special guests - including <strong>[voice actors](/talent)</strong> from your favorite franchises and the creator of <strong>Monster High</strong>!'
 
 
 feature_row:
@@ -27,7 +27,7 @@ feature_row:
     image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
     alt: "Celebrity Guests"
     title: "Celebrity Guests"
-    excerpt: "<p>Check out our announced <a href='/talent'>celebrity guests!</a> MORE coming soon!</p>"
+    excerpt: "<p>Check out our announced <a href='/talent'>celebrity guests!</a></p>"
     # ><strong>Pro Tip:</strong> Sign up for our [email list](/signup) to be the first in the know!"
   - image_path: /assets/images/sponsors.png
     # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
@@ -43,20 +43,38 @@ feature_row:
 feature_row3:
    - image_path: /assets/images/panels.png
      image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
-     alt: "Panels"
-     title: "Panels"
-     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>>Ever wanted to yap about your nerdy passion in front of a crowd? Panel applications are open today!"
-     url: "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform?usp=header"
-     btn_label: <font color="#000">Panelist Application</font>
+     alt: "Schedule"
+     title: "Schedule"
+     excerpt: "<p>🎥 Lights, cameras, <em>ACTION!</em></p><p>Q&As, contests, live performances, and more! Enjoy two full days of action-packed panels.</p>"
+     url: "https://conventy.com/events/nefancon26/schedule"
+     btn_label: <font color="#000">Check out our schedule!</font>
      btn_class: "btn--primary"
+
+# feature_row6:
+#   - image_path: /assets/images/sat.jpeg
+#     # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
+#     alt: "Saturday panel schedule"
+#     # title: "Directions"
+#     # excerpt: "<p>Visit our <a href='/maps'>travel page</a> for the best routes to FanCon - by plane, train, or car!</p>"
+#   - image_path: /assets/images/sun.jpeg
+#     # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
+#     alt: "Sunday panel schedule"
+    # title: "Celebrity Guests"
+    # excerpt: "<p>Check out our announced <a href='/talent'>celebrity guests!</a></p>"
+    # ><strong>Pro Tip:</strong> Sign up for our [email list](/signup) to be the first in the know!"
+  # - image_path: /assets/images/sponsors.png
+  #   # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
+  #   alt: "Our Sponsors"
+  #   title: "Sponsors"
+  #   excerpt: "<p>The folks who help make the magic happen - become one of New England FanCon's <a href='/sponsor'>official sponsors</a>!</p>"
+
 
 feature_row4:
   - image_path: assets/images/cosplay.jpg
     image_caption: "Image courtesy of [@aciddcupcake](https://www.instagram.com/aciddcupcake/)"
     alt: "Cosplay"
     title: "Cosplay"
-    excerpt: "<p>🎮 Put your cosplay skills to the test!</p><p>Check out our <a href='/cosplay'>cosplay page</a> for our contest announcements and themed photoshoots!</p>"
-    # >Casual cosplayer? Keep an eye out for our themed photoshoots!
+    excerpt: "<p>🎮 Put your cosplay skills to the test!</p><p>Check out our <a href='/cosplay'>cosplay page</a> to sign up for our Novice competition on Sunday, or our Intermediate contest on Saturday!</p>>Casual cosplayer? Check out [schedule](https://conventy.com/events/nefancon26/schedule) for themed photoshoots and fandom meetups!"
 
 # feature_row5:  
 #   - image_path: /assets/images/celebs.jpeg
@@ -70,7 +88,7 @@ feature_row5:
     # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
     alt: "Show Floor map"
     title: "Show Floor"
-    excerpt: "<p>Navigate our event space! Get prepared for our vendors, TTRPG gaming, and panel locations!"
+    excerpt: "Navigate our event space! Get prepared for our vendors, TTRPG gaming, and panel locations!"
 
 feature_row2:
   - image_path: /assets/images/logo.png
@@ -89,13 +107,15 @@ feature_row2:
 
 {% include feature_row id="feature_row3" type="left" %}
 
+<!-- {% include feature_row id="feature_row6" %} -->
+
 {% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
-<!-- {% include feature_row id="feature_row4" type="center" %} -->
+
 
 <!-- <p>Sign up for our <a href='https://form.jotform.com/252414776972164' target ='_blank'><strong>Cosplay Contest</strong></a> for the chance to win a cash prize!</p> -->
 
