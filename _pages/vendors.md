@@ -66,7 +66,6 @@ h3 {
   <li>Noah Alperin</li>
   <li>PhyllidaLuna</li>
   <li>Rain Aung Art</li>
-  <li>Ravelran Explorer</li>
   <li>Rebel Oasis Studios</li>
   <li>Reignebo Art</li>
   <li>Riverview Sewing Studio</li>
@@ -78,6 +77,7 @@ h3 {
   <li>Tales of Ganden</li>
   <li>The Brass Glass</li>
   <li>The Genshin Booth</li>
+  <li>The Vent Chronicles</li>
   <li>Toasty Tony's Puzzles</li>
   <li>Trot L’Oeil Artistry</li>
   <li>Valenza Publishing</li>
