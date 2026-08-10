@@ -23,7 +23,7 @@ h3 {
 
 <p>Vending spaces and room availability below are subject to change. Final booth assignments will be provided at least two weeks prior to the event.</p>
 
-<p>Please note, New England FanCon does not accept vendors with AI products.</p>
+<p>Please note, New England FanCon does not accept vendors with AI products or displays.</p>
 
 <img src="/assets/images/complex.jpg" alt="image_description" width="500" height="310">
 
@@ -62,7 +62,6 @@ h3 {
   <li>Made by Mulchy</li>
   <li>Michael Blank Fantasy Art</li>
   <li>Milky Moonbow</li>
-  <li>MOOWSIE</li>
   <li>Noah Alperin</li>
   <li>PhyllidaLuna</li>
   <li>Rain Aung Art</li>
