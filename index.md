@@ -84,7 +84,7 @@ feature_row4:
 #     excerpt: "<p>🎤 Meet face-to-face with greatness!</p><p>Celebrity guest and panel announcements coming soon!</p>><strong>Pro Tip:</strong> Sign up for our [email list](/signup) to be the first in the know!"
 
 feature_row5:  
-  - image_path: /assets/images/venue.jpeg
+  - image_path: /assets/images/complex.jpeg
     # image_caption: "Artist: [Aubrianna Robinson](https://www.instagram.com/blobri/)"
     alt: "Show Floor map"
     title: "Show Floor"
