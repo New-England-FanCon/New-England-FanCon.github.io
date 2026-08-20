@@ -17,7 +17,7 @@ h3 {
 </style>
 
 <p></p>
-<h1>Cosplay Competitions at New England FanCon</h1>
+<h1>Cosplay Competitions at New England FanCon 2026</h1>
 
 <p>New England FanCon will be hosting TWO cosplay competitions: a novice's beginner competition on August 16, and a journeyman's intermediate competition on August 15. Each category will accept up to the first 25 qualified applicants into the show. See below for details!</p>
 
