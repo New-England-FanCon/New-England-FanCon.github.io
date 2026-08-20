@@ -19,9 +19,10 @@ h3 {
 <p></p>
 <h1>Travel & Directions</h1>
 
-<h3>Reaching New England FanCon is easy! Follow these transit tips below for the most up-to-date directions.
+<h3>2027 Venue to be announced!</h3>
+<!-- <h3>Reaching New England FanCon is easy! Follow these transit tips below for the most up-to-date directions.
 
-<h4>Venue Address</h4>
+<!-- <h4>Venue Address</h4>
 <p>180 Hawley Ln, Trumbull, CT 06611</p>
 
 
@@ -62,4 +63,4 @@ h3 {
     <li>John F. Kennedy International Airport - JFK (70 miles)</li>
 </ul>
 
-
+ -->

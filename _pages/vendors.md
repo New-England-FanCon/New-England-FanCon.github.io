@@ -25,12 +25,12 @@ h3 {
 <!-- <p>Vending spaces and room availability below are subject to change. Final booth assignments will be provided at least two weeks prior to the event.</p> -->
 
 <p>Please note, New England FanCon does not accept vendors with AI products or displays.</p>
-
+<!-- 
 <p>Please see the map below for 2026 vendor locations. Locations are subject to change.</p>
 
-<img src="/assets/images/complex.jpeg" alt="image_description" width="500" height="310">
+<!-- <img src="/assets/images/complex.jpeg" alt="image_description" width="500" height="310"> -->
 
-<p></p>
+<!-- <p></p>
 <h1>Current Vendors</h1>
 
 <p>Check out our current roster of vendors for the 2026 event below!</p>
@@ -113,4 +113,4 @@ h3 {
   <li>ViVa Love Earrings</li>
   <li>Weeb Sisters Creations</li>
   <li>Wildshape Workshop</li>
-</ul>
+</ul> -->

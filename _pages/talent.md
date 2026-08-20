@@ -16,12 +16,14 @@ h3 {
 <p></p>
 <h1>Celebrity Guests</h1>
 
-<p>Meet and greets are included with your FanCon tickets. The following guests will be available both Saturday and Sunday for autographs* and more!</p>
+<p>Meet and greets are included with your FanCon tickets. 
 
- <!-- More celebrity talent to be announced soon! Be the first in the know by signing up for our <a href='/signup'>mailing list</a>.</p> -->
+<!-- The following guests will be available both Saturday and Sunday for autographs* and more!</p> -->
 
-<p>*Additional fees apply</p>
+<p>Celebrity talent to be announced in 2027! Be the first in the know by signing up for our <a href='/signup'>mailing list</a>.</p>
 
+<!-- <p>*Additional fees apply</p> -->
+<!-- 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content=
@@ -160,7 +162,7 @@ h3 {
 
 <p> Over the course of his career, <strong>Rick Stromoski</strong> has created <strong>three nationally syndicated comic strips</strong> between 1987 and 2018, bringing his humor and distinctive style to audiences across the country. He is the creator of Soup to Nuts, which ran in over <strong>150 newspapers for 18 years!</strong> He is also the creator of the bestselling middle grade graphic novel series Schnozzer & Tatertoes.</p>
 <p>Alongside his original works, you can see his illustrations in numerous children’s books for major publishers and hundreds of greeting cards for leading national card companies. He has also contributed to advertising, licensing, and network television, showcasing his versatility as an artist and storyteller. He’s also known for teaching cartooning workshops and inspiring the next generation of artists with his fun, approachable style.
-</p>
+</p> -->
 
 <!-- 
 feature_row:

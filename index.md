@@ -12,9 +12,9 @@ header:
 excerpt: " "
 intro: 
   # - excerpt: <iframe width="300" height="154" src="https://w2.countingdownto.com/6910620" frameborder="0"></iframe>
-  - excerpt: <h1>August 15-16, 2026</h1>
+  - excerpt: <h1>Next Event - To Be Announced!</h1>
   - excerpt: 'A celebration of all things fandom and pop culture, New England FanCon offers family-friendly fun for fans of all ages. From anime and comics to cartoons and video games, find something for everyone!'
-  - excerpt: 'With your <strong>[FanCon ticket](https://conventy.com/events/nefancon26/purchase)</strong>, highlights include: <strong>[Cosplay Competitions](/cosplay)</strong>, an <strong>[Off-Broadway Performance](https://conventy.com/events/nefancon26/schedule)</strong>, live music, local artists & authors, and special guests - including <strong>[voice actors](/talent)</strong> from your favorite franchises and the creator of <strong>Monster High</strong>!'
+  # - excerpt: 'With your <strong>[FanCon ticket](https://conventy.com/events/nefancon26/purchase)</strong>, highlights include: <strong>[Cosplay Competitions](/cosplay)</strong>, an <strong>[Off-Broadway Performance](https://conventy.com/events/nefancon26/schedule)</strong>, live music, local artists & authors, and special guests - including <strong>[voice actors](/talent)</strong> from your favorite franchises and the creator of <strong>Monster High</strong>!'
 
 
 feature_row:

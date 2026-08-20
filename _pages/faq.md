@@ -71,6 +71,8 @@ details + details {
 
 <details>
 <summary><h3>Where and When is New England FanCon?</h3></summary>
+<p>New England FanCon 2027 is to be announced!</p>
+<!-- 
 <p>New England FanCon will take place at the Trumbull Marriott Shelton on Saturday, August 15, 2026 and Sunday, August 16, 2026.
 </p>
 <p><em>Venue address:</em></p>
@@ -78,11 +80,11 @@ details + details {
     Trumbull Marriott Shelton<br />
     180 Hawley Lane<br />
     Trumbull, CT 06611
-</p>
+</p> -->
 
 </details>
 
-<details>
+<!-- <details>
 <summary><h3>What are the show hours?</h3></summary>
 
 
@@ -133,7 +135,7 @@ th {
 
 <p>Attendees are also invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
-</details>
+</details> -->
 
 <details>
 <summary><h3>Who should attend New England FanCon?</h3></summary>
@@ -146,9 +148,10 @@ th {
 <details>
 <summary><h3>How can I attend New England FanCon?</h3></summary>
 
-<p><a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">Purchase your tickets here!</a></p>
+<p>Tickets for New England FanCon 2027 will be available in 2027!</p>
+<!-- <p><a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">Purchase your tickets here!</a></p>
 
-<p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p>
+<!-- <p>The <strong>Saturday-Only Pass</strong> will allow for access to the exhibit hall and panels on Saturday, August 15, 2026 from 10:00am - 7:00pm.</p>
 
 <p>The <strong>Sunday-Only Pass</strong> will allow for access to the exhibit hall and panels on Sunday, August 16, 2026 from 10:00am - 7:00pm.</p>
 
@@ -158,11 +161,11 @@ th {
 
 <p>Attendees are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
-<p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
+<p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p> -->
 
 </details>
 
-<details>
+<!-- <details>
 <summary><h3>What does it cost to attend New England FanCon?</h3></summary>
 <p>To celebrate our launch, the <a href = "https://conventy.com/events/nefancon26/purchase" target ="_blank">first 100 tickets sold</a> will cost $17 for Single Day Passes and $30 for Two-Day Passes. After that, Single Day Passes will cost $22, and the Two-Day Pass will cost $37. Pricing will increase closer to the event. Please see the chart below for pricing cutoffs.</p> 
 
@@ -201,17 +204,20 @@ th {
 <p>Attendees are invited to pick up their badges early on Friday, August 14 in the Trumbull Marriott Shelton lobby from 7:00pm - 9:00pm. Skip the con morning line!</p>
 
 <p>Badges will not be shipped in advance. Please ensure you have proof of ID that matches the name on the account that purchased tickets.</p>
-</details>
+</details> -->
 
 <details>
 <summary><h3>What is the refund policy for New England FanCon?</h3></summary>
-<p>Please send an email to our support team at <strong>nefanconhelp@gmail.com</strong> to request a refund. Refunds requested prior to July 1st, 2026 at 11:59 PM will be granted in full, minus the cost of credit card and processing fees. Refunds requested between July 2nd and July 24th, 2026 at 11:59 PM will be granted at 50% of the purchase price, minus the cost of credit card and processing fees. No refunds will be granted starting July 25th.</p>
+<p>Please send an email to our support team at <strong>nefanconhelp@gmail.com</strong> to request a refund.</p>
+
+<!-- <p>Refunds requested prior to July 1st, 2026 at 11:59 PM will be granted in full, minus the cost of credit card and processing fees. Refunds requested between July 2nd and July 24th, 2026 at 11:59 PM will be granted at 50% of the purchase price, minus the cost of credit card and processing fees. No refunds will be granted starting July 25th.</p> -->
 
 </details>
 
 <details>
 <summary><h3>How can I become a vendor for New England FanCon?</h3></summary>
-<p>Simply fill out our <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd61et73fVw9VBFrkdom0Uxj-weqvirNRWcmycqnkpxGC5RrQ/viewform" target ="_blank">vendor interest form</a> and our exhibitor management team will reach out with more details!</p>
+<p>Vendor applications for 2027 will open in 2027!</p>
+<!-- <p>Simply fill out our <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd61et73fVw9VBFrkdom0Uxj-weqvirNRWcmycqnkpxGC5RrQ/viewform" target ="_blank">vendor interest form</a> and our exhibitor management team will reach out with more details!</p> -->
 
 </details>
 
@@ -227,27 +233,27 @@ th {
 
 </details>
 
-<details>
+<!-- <details>
 <summary><h3>Does New England FanCon Validate Parking?</h3></summary>
 <p>The Trumbull Marriott Shelton offers 400 free parking spaces available first-come, first-served. Extra free parking can be found just across the street in the shopping center parking lot. Carpooling is encouraged!</p>
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><h3>Can I suggest/run a panel?</h3></summary>
-<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you in Summer 2026!</p>
+<p>We welcome all suggestions! Fill in <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdYzipwr4-srTVlriVk_7p3el8V8vJgM_SwdhaYWaEnDB7--Q/viewform" target ="_blank">this form</a> with your pitch and any relevant experience, and we'll contact you in Summer 2026!</p> -->
 
 <!-- <p>Please note, New England FanCon relies on panelists to arrive on time for their panel(s). To ensure accountability, all selected panelists will be required to purchase an admission ticket for their presenting day. This pass will be <strong>refunded in full</strong> once the panelists complete their panel onsite. In the case of a no-show or significant delay that causes the panel to not be run, this pass will not be refunded. If a panelist chooses to purchase a two-day pass and only presents on one day, they will be refunded for the rate of a single day pass at the time of their original purchase. We appreciate your understanding with this policy and encourage any questions to be directed to nefanconhelp@gmail.com.</p> -->
 
-</details>
+<!-- </details>
 
 <details>
 <summary><h3>Can I bring in outside food/beverage?</h3></summary>
-<p>Outside food and beverage is not permitted within the Trumbull Marriott Shelton. The hotel offers a restaurant on site, as well as plenty of eating and shopping opportunities just across the street and in the local area.</p>
+<p>Outside food and beverage is not permitted within the Trumbull Marriott Shelton. The hotel offers a restaurant on site, as well as plenty of eating and shopping opportunities just across the street and in the local area.</p> -->
 <!-- 
 <p>New England FanCon will also be inviting a variety of food trucks from 11:00am - 3:00pm on Saturday and Sunday. These will be located in the hotel parking lot on the shopping center side.</p> -->
 
-</details>
+<!-- </details> -->
 
 <!-- <details>
 <summary><h3>Does New England FanCon have a hotel room block?</h3></summary>
